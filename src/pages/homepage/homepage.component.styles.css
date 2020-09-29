@@ -1,0 +1,16 @@
+.Homepage{
+	max-width: 100%;
+	height: 100%;
+
+}
+.component{
+ width: 100%;
+ display: flex;
+}
+.hold{
+
+	
+}
+.imageslider{
+	padding-top: 10%;
+}
